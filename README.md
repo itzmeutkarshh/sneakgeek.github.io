@@ -27,8 +27,6 @@
 ## Preview
 
 ![alt](./public/site_1.png)
-![alt](./public/site_2.png)
-![alt](./public/site_3.png)
 
 
 
