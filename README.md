@@ -2,7 +2,7 @@
    updated: Sunday, 12th March 2023
 
 <div align=center>
-        <img width=200 src="sneakgeek.ico" alt="sneakgeek">
+        <img width=200 src="public/sneakgeek.ico" alt="sneakgeek">
     </a>
     <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> In Love with Sneakers </p>
     <a href="https://deepsource.io/gh/warmachine028/memories/?ref=repository-badge">
@@ -28,9 +28,9 @@
 
 ## Preview
 
-![alt](site_1.png)
-![alt](site_2.png)
-![alt](site_3.png)
+![alt](./public/site_1.png)
+![alt](./public/site_2.png)
+![alt](./public/site_3.png)
 
 
 
