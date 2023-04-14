@@ -26,9 +26,9 @@
 
 ## Preview
 
-![alt](./public/site_1.jpg)
-![alt](./public/site_2.jpg)
-![alt](./public/site_3.jpg)
+![alt](./public/site_pic1.jpg)
+![alt](./public/site_pic2.jpg)
+![alt](./public/site_pic3.jpg)
 
 
 
