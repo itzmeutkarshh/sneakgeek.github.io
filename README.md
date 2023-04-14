@@ -8,7 +8,7 @@
     </a>
 </div>
 
-# sneekgeek.github.io
+# sneakgeek.github.io
 
 ## Introduction
 
